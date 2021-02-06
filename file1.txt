@@ -1,1 +1,7 @@
 this is my first file.
+
+this is the second commit.
+
+1. git add .
+2. git commit -m "description"
+3. git push origin <branch>
